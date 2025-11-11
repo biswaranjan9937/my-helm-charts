@@ -10,7 +10,7 @@ entries:
           url: https://github.com/prometheus/prometheus
     apiVersion: v2
     appVersion: v3.7.3
-    created: "2025-11-11T12:45:12.2948278+05:30"
+    created: "2025-11-11T12:49:59.1717491+05:30"
     dependencies:
     - condition: alertmanager.enabled
       name: alertmanager
@@ -61,6 +61,6 @@ entries:
     - https://github.com/kubernetes/kube-state-metrics
     type: application
     urls:
-    - https://biswaranjan9937.github.io/my-helm-charts/charts/prometheus-27.44.0.tgz
+    - prometheus-27.44.0.tgz
     version: 27.44.0
-generated: "2025-11-11T12:45:12.2868808+05:30"
+generated: "2025-11-11T12:49:59.166962+05:30"
